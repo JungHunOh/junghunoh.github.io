@@ -3,4 +3,6 @@ logo: https://cv.snu.ac.kr/member/images/jhoh.png
 description:
 show_downloads: false
 google_analytics: UA-191381811-3
+plainwhite:
+	dark_mode: true
 theme: jekyll-theme-minimal
