@@ -10,15 +10,16 @@ title: Junghun Oh
 **Email**: dh6dh@snu.ac.kr \
 **Google scholar**: [profile](https://scholar.google.co.kr/citations?user=fCFkL9EAAAAJ&hl=ko)
 
-I am a Ph.D student majoring in computer vision at SNU computer vision lab, advised by [Prof. Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/kmlee/).
+I am a Ph.D candidate student majoring in computer vision at SNU computer vision lab, advised by [Prof. Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/kmlee/).
 
 
 ## **Research Interests**
 
 Currently, I am a researcher for deep neural network.
-The main research topics include **neural network pruning** and **meta-learning**.
+The main research topics include **meta-learning**, **few-shot learning**, and **neural network pruning**.
 
 ## **Publications**
-**Junghun Oh**, Heewon Kim, Sungyong Baik, Cheeun Hong, and Kyoung Mu Lee, "Batch Normalization Tells You Which Filter is Important," Winter Conference on Applications of Computer Vision (WACV), 2022. [PDF]()\
-Cheeun Hong*, Heewon Kim*, Sungyong Baik, **Junghun Oh**, and Kyoung Mu Lee, "DAQ: Channel-Wise Distribution-Aware Quantization for Deep Image Super-Resolution Networks," Winter Conference on Applications of Computer Vision (WACV), 2022. [PDF]()\
-Sungyong Baik, **Junghun Oh**, Seokil Hong, and Kyoung Mu Lee, "Learning to Forget for Meta-Learning via Task-and-Layer-Wise Attenuation," IEEE Trans. Pattern Analysis and Machine Intelligence (TPAMI), accepted. [PDF](https://cv.snu.ac.kr/sungyong_baik/L2F_TPAMI_Final.pdf), [SUPP](https://cv.snu.ac.kr/sungyong_baik/L2F_TPAMI_Final_Supplementary.pdf)
+**Junghun Oh**, Heewon Kim, Seungjun Nah, Cheeun Hong, Jonghyun Choi and Kyoung Mu Lee, "Attentive Fine-Grained Structured Sparsity for Image Restoration," Proc. Computer Vision and Pattern Recognition (**CVPR**), 2022. [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Oh_Attentive_Fine-Grained_Structured_Sparsity_for_Image_Restoration_CVPR_2022_paper.pdf), [SUPP](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Oh_Attentive_Fine-Grained_Structured_CVPR_2022_supplemental.pdf)\
+**Junghun Oh**, Heewon Kim, Sungyong Baik, Cheeun Hong, and Kyoung Mu Lee, "Batch Normalization Tells You Which Filter is Important," Winter Conference on Applications of Computer Vision (**WACV**), 2022. [PDF](https://openaccess.thecvf.com/content/WACV2022/papers/Oh_Batch_Normalization_Tells_You_Which_Filter_Is_Important_WACV_2022_paper.pdf), [SUPP](https://openaccess.thecvf.com/content/WACV2022/supplemental/Oh_Batch_Normalization_Tells_WACV_2022_supplemental.pdf)\
+Cheeun Hong*, Heewon Kim*, Sungyong Baik, **Junghun Oh**, and Kyoung Mu Lee, "DAQ: Channel-Wise Distribution-Aware Quantization for Deep Image Super-Resolution Networks," Winter Conference on Applications of Computer Vision (**WACV**), 2022. [PDF]()\
+Sungyong Baik, **Junghun Oh**, Seokil Hong, and Kyoung Mu Lee, "Learning to Forget for Meta-Learning via Task-and-Layer-Wise Attenuation," IEEE Trans. Pattern Analysis and Machine Intelligence (**TPAMI**), accepted. [PDF](https://cv.snu.ac.kr/sungyong_baik/L2F_TPAMI_Final.pdf), [SUPP](https://cv.snu.ac.kr/sungyong_baik/L2F_TPAMI_Final_Supplementary.pdf)
