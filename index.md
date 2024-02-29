@@ -3,7 +3,7 @@ layout: default
 title: Junghun Oh
 ---
 
-## CV
+## [CV](cv.pdf)
 
 **Ph.D candidate** \
 **Affiliation**: Department of ECE, Seoul National University (SNU), Seoul, Korea \
