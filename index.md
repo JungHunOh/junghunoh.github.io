@@ -15,10 +15,12 @@ I am a Ph.D candidate student majoring in computer vision at SNU computer vision
 
 ## **Research Interests**
 
-Currently, I am a researcher for deep neural network.
-The main research topics include **meta-learning**, **few-shot learning**, and **neural network pruning**.
+My current research topic is representation learning, especially for generalization to unseen data distribution.
+More specifically, I am working on developing representation learning methods for **few-shot incremental learning** and **out-of-distribution generalization and detection**.
+My research topics also include **network pruning and quantization** for efficient neural networks and **image super-resolution**.
 
 ## **Publications**
+* Jaeha Kim, **Junghun Oh**, and Kyoung Mu Lee, "Beyond Image Super-Resolution for Image Recognition with Task-Driven Perceptual Loss," Proc. Computer Vision and Pattern Recognition (**CVPR**), 2024.
 * **Junghun Oh**, Heewon Kim, Seungjun Nah, Cheeun Hong, Jonghyun Choi and Kyoung Mu Lee, "Attentive Fine-Grained Structured Sparsity for Image Restoration," Proc. Computer Vision and Pattern Recognition (**CVPR**), 2022. [[PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Oh_Attentive_Fine-Grained_Structured_Sparsity_for_Image_Restoration_CVPR_2022_paper.pdf)], [[SUPP](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Oh_Attentive_Fine-Grained_Structured_CVPR_2022_supplemental.pdf)], [[CODE](https://github.com/JungHunOh/SLS_CVPR2022)]
 * **Junghun Oh**, Heewon Kim, Sungyong Baik, Cheeun Hong, and Kyoung Mu Lee, "Batch Normalization Tells You Which Filter is Important," Winter Conference on Applications of Computer Vision (**WACV**), 2022. [[PDF](https://openaccess.thecvf.com/content/WACV2022/papers/Oh_Batch_Normalization_Tells_You_Which_Filter_Is_Important_WACV_2022_paper.pdf)], [[SUPP](https://openaccess.thecvf.com/content/WACV2022/supplemental/Oh_Batch_Normalization_Tells_WACV_2022_supplemental.pdf)]
 * Cheeun Hong*, Heewon Kim*, Sungyong Baik, **Junghun Oh**, and Kyoung Mu Lee, "DAQ: Channel-Wise Distribution-Aware Quantization for Deep Image Super-Resolution Networks," Winter Conference on Applications of Computer Vision (**WACV**), 2022. [[PDF](https://openaccess.thecvf.com/content/WACV2022/papers/Hong_DAQ_Channel-Wise_Distribution-Aware_Quantization_for_Deep_Image_Super-Resolution_Networks_WACV_2022_paper.pdf)]
