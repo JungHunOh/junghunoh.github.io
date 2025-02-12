@@ -20,6 +20,7 @@ More specifically, I am working on developing representation learning methods fo
 My research topics also include **network pruning and quantization** for efficient neural networks and **image super-resolution**.
 
 ## **Publications**
+* **Junghun Oh**, Sungyong Baik, and Kyoung Mu Lee, "Find A Winning Sign: Sign Is All We Need to Win the Lottery," Proc. International Conference on Learning Representations (**ICLR**), 2025.
 * **Junghun Oh**\*, Sungyong Baik\*, and Kyoung Mu Lee, "CLOSER: Towards Better Representation Learning for Few-Shot Class-Incremental Learning", Proc. European Conference on Computer Vision (**ECCV**), 2024.
 * Jaeha Kim, **Junghun Oh**, and Kyoung Mu Lee, "Beyond Image Super-Resolution for Image Recognition with Task-Driven Perceptual Loss", Proc. Computer Vision and Pattern Recognition (**CVPR**), 2024.
 * **Junghun Oh**, Heewon Kim, Seungjun Nah, Cheeun Hong, Jonghyun Choi and Kyoung Mu Lee, "Attentive Fine-Grained Structured Sparsity for Image Restoration", Proc. Computer Vision and Pattern Recognition (**CVPR**), 2022. [[PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Oh_Attentive_Fine-Grained_Structured_Sparsity_for_Image_Restoration_CVPR_2022_paper.pdf)], [[SUPP](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Oh_Attentive_Fine-Grained_Structured_CVPR_2022_supplemental.pdf)], [[CODE](https://github.com/JungHunOh/SLS_CVPR2022)]
