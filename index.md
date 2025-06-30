@@ -15,11 +15,12 @@ I am a Ph.D candidate student majoring in computer vision at SNU computer vision
 
 ## **Research Interests**
 
-My current research topic is representation learning, especially for generalization to unseen data distribution.
-More specifically, I am working on developing representation learning methods for **few-shot incremental learning** and **out-of-distribution generalization and detection**.
-My research topics also include **network pruning and quantization** for efficient neural networks and **image super-resolution**.
+My current research topic is efficiency in deep learning.
+More specifically, I am working on **low-rank adaptation** for fine-tuning large models on downstream tasks and **network pruning & quantization**.
+My research topics also include **continual learning** and **task-driven image super-resolution**.
 
 ## **Publications**
+* Jaeha Kim, **Junghun Oh**, and Kyoung Mu Lee, "Exploiting Diffusion Prior for Task-driven Image Restoration", In International Conference on Computer Vision (**ICCV**), 2025.
 * **Junghun Oh**, Sungyong Baik, and Kyoung Mu Lee, "Find A Winning Sign: Sign Is All We Need to Win the Lottery", In International Conference on Learning Representations (**ICLR**), 2025.
 * **Junghun Oh**\*, Sungyong Baik\*, and Kyoung Mu Lee, "CLOSER: Towards Better Representation Learning for Few-Shot Class-Incremental Learning", In European Conference on Computer Vision (**ECCV**), 2024.
 * Jaeha Kim, **Junghun Oh**, and Kyoung Mu Lee, "Beyond Image Super-Resolution for Image Recognition with Task-Driven Perceptual Loss", In Computer Vision and Pattern Recognition (**CVPR**), 2024.
