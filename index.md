@@ -15,9 +15,9 @@ I am a Ph.D candidate student majoring in computer vision at SNU computer vision
 
 ## **Research Interests**
 
-My current research topic is efficiency in deep learning.
-More specifically, I am working on **low-rank adaptation** for fine-tuning large models on downstream tasks and **network pruning & quantization**.
-My research topics also include **continual learning** and **task-driven image super-resolution**.
+My current research focuses on improving efficiency in deep learning.
+More specifically, I work on **low-rank adaptation** for fine-tuning large models on downstream tasks, as well as **network pruning and quantization**.
+My research interests also include **continual learning** and **task-driven image super-resolution**.
 
 ## **Publications**
 * Jaeha Kim, **Junghun Oh**, and Kyoung Mu Lee, "Exploiting Diffusion Prior for Task-driven Image Restoration", In International Conference on Computer Vision (**ICCV**), 2025.
