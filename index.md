@@ -24,11 +24,6 @@ Seoul National University (SNU), Seoul, South Korea
 **Nota AI**, Seoul, South Korea (Oct. 2026 -- Present) \
 Position: Quantization Research Engineer
 
-## **Research Interests**
-
-My current research focuses on improving efficiency in deep learning.
-More specifically, I work on **low-rank adaptation** for fine-tuning large models on downstream tasks, as well as **network pruning and quantization**.
-My research interests also include **continual learning** and **task-driven image super-resolution**.
 
 ## **Publications**
 * **Junghun Oh**, Sungyong Baik, and Kyoung Mu Lee, "SDS-LoRA: Overcoming Anisotropic Gradient Scaling in Low-Rank Adaptation", In Neural Information Processing Systems (**NeurIPS**), 2026.
