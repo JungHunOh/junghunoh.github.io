@@ -10,8 +10,19 @@ title: Junghun Oh
 **Email**: dh6dh@snu.ac.kr \
 **Google scholar**: [profile](https://scholar.google.co.kr/citations?user=fCFkL9EAAAAJ&hl=ko)
 
-I am a Ph.D candidate student majoring in computer vision at SNU computer vision lab, advised by [Prof. Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/kmlee/).
 
+## **Education**
+Integrated **Ph.D.** program in Department of ECE (Mar. 2020 - Aug. 2026)\
+Seoul National University (SNU), Seoul, South Korea\
+Advisor: [Prof. Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/kmlee/)
+
+**B.S.** in Department of ECE (Mar. 2016 - Feb. 2020)\
+Seoul National University (SNU), Seoul, South Korea
+
+
+## **Work Experience**
+**Nota AI**, Seoul, South Korea (Oct. 2026 -- Present) \
+Position: Quantization Research Engineer
 
 ## **Research Interests**
 
@@ -20,6 +31,7 @@ More specifically, I work on **low-rank adaptation** for fine-tuning large model
 My research interests also include **continual learning** and **task-driven image super-resolution**.
 
 ## **Publications**
+* **Junghun Oh**, Sungyong Baik, and Kyoung Mu Lee, "SDS-LoRA: Overcoming Anisotropic Gradient Scaling in Low-Rank Adaptation", In Neural Information Processing Systems (**NeurIPS**), 2026.
 * Jaeha Kim, **Junghun Oh**, and Kyoung Mu Lee, "Exploiting Diffusion Prior for Task-driven Image Restoration", In International Conference on Computer Vision (**ICCV**), 2025.
 * **Junghun Oh**, Sungyong Baik, and Kyoung Mu Lee, "Find A Winning Sign: Sign Is All We Need to Win the Lottery", In International Conference on Learning Representations (**ICLR**), 2025.
 * Cheeun Hong\*, Sungyong Baik\*, **Junghun Oh**, and Kyoung Mu Lee, "Difficulty, Diversity, and Plausibility: Dynamic Data-Free Quantization", In Winter Conference on Applications of Computer Vision (**WACV**), 2025.
