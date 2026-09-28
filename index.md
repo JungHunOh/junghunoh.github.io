@@ -7,7 +7,7 @@ title: Junghun Oh
 
 **Ph.D candidate** \
 **Affiliation**: Department of ECE, Seoul National University (SNU), Seoul, Korea \
-**Email**: dh6dh@snu.ac.kr \
+**Email**: dhwjdgns1002@gmail.com \
 **Google scholar**: [profile](https://scholar.google.co.kr/citations?user=fCFkL9EAAAAJ&hl=ko)
 
 
